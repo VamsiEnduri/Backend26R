@@ -33,3 +33,6 @@ put (update) data modify in json file with readFileSync and writeFileSync
 5 min recap
 path :--
 7+ 
+
+28-03-25 :-- path module (path :-- directory/file ., dir/dir/dir/file)
+expressjs :-- 
